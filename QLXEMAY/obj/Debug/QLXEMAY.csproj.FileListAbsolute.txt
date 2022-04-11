@@ -1,0 +1,66 @@
+E:\QLBanXeMay\QLXEMAY\QLXEMAY\bin\Debug\QLXEMAY.exe.config
+E:\QLBanXeMay\QLXEMAY\QLXEMAY\bin\Debug\QLXEMAY.exe
+E:\QLBanXeMay\QLXEMAY\QLXEMAY\bin\Debug\QLXEMAY.pdb
+E:\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.csproj.AssemblyReference.cache
+E:\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Properties.Resources.resources
+E:\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.csproj.GenerateResource.cache
+E:\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.csproj.CoreCompileInputs.cache
+E:\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.exe
+E:\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.pdb
+E:\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmLogin.resources
+E:\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmMain.resources
+E:\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmNhanVien.resources
+E:\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.csproj.ResolveComReference.cache
+E:\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmHoaDonNhap.resources
+E:\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmKhachHang.resources
+E:\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmNhaCungCap.resources
+E:\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmDanhMucXe.resources
+E:\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmXe.resources
+E:\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmQuanLiHDB.resources
+E:\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmQuanLiHDN.resources
+E:\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmThongKe.resources
+E:\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmHoaDonBan.resources
+C:\Users\MinhViet\Downloads\QLBanXeMay\QLBanXeMay\QLBanXeMay\QLXEMAY\QLXEMAY\bin\Debug\QLXEMAY.exe.config
+C:\Users\MinhViet\Downloads\QLBanXeMay\QLBanXeMay\QLBanXeMay\QLXEMAY\QLXEMAY\bin\Debug\QLXEMAY.exe
+C:\Users\MinhViet\Downloads\QLBanXeMay\QLBanXeMay\QLBanXeMay\QLXEMAY\QLXEMAY\bin\Debug\QLXEMAY.pdb
+C:\Users\MinhViet\Downloads\QLBanXeMay\QLBanXeMay\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.csproj.AssemblyReference.cache
+C:\Users\MinhViet\Downloads\QLBanXeMay\QLBanXeMay\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.csproj.ResolveComReference.cache
+C:\Users\MinhViet\Downloads\QLBanXeMay\QLBanXeMay\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmDanhMucXe.resources
+C:\Users\MinhViet\Downloads\QLBanXeMay\QLBanXeMay\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmHoaDonBan.resources
+C:\Users\MinhViet\Downloads\QLBanXeMay\QLBanXeMay\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmHoaDonNhap.resources
+C:\Users\MinhViet\Downloads\QLBanXeMay\QLBanXeMay\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmKhachHang.resources
+C:\Users\MinhViet\Downloads\QLBanXeMay\QLBanXeMay\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmLogin.resources
+C:\Users\MinhViet\Downloads\QLBanXeMay\QLBanXeMay\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmMain.resources
+C:\Users\MinhViet\Downloads\QLBanXeMay\QLBanXeMay\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmNhaCungCap.resources
+C:\Users\MinhViet\Downloads\QLBanXeMay\QLBanXeMay\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmNhanVien.resources
+C:\Users\MinhViet\Downloads\QLBanXeMay\QLBanXeMay\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmQuanLiHDB.resources
+C:\Users\MinhViet\Downloads\QLBanXeMay\QLBanXeMay\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmQuanLiHDN.resources
+C:\Users\MinhViet\Downloads\QLBanXeMay\QLBanXeMay\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmThongKe.resources
+C:\Users\MinhViet\Downloads\QLBanXeMay\QLBanXeMay\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmXe.resources
+C:\Users\MinhViet\Downloads\QLBanXeMay\QLBanXeMay\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Properties.Resources.resources
+C:\Users\MinhViet\Downloads\QLBanXeMay\QLBanXeMay\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.csproj.GenerateResource.cache
+C:\Users\MinhViet\Downloads\QLBanXeMay\QLBanXeMay\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.csproj.CoreCompileInputs.cache
+C:\Users\MinhViet\Downloads\QLBanXeMay\QLBanXeMay\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.exe
+C:\Users\MinhViet\Downloads\QLBanXeMay\QLBanXeMay\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.pdb
+E:\Code\Visual Studio\Winforms\QLBanXeMay\QLXEMAY\QLXEMAY\bin\Debug\QLXEMAY.exe.config
+E:\Code\Visual Studio\Winforms\QLBanXeMay\QLXEMAY\QLXEMAY\bin\Debug\QLXEMAY.exe
+E:\Code\Visual Studio\Winforms\QLBanXeMay\QLXEMAY\QLXEMAY\bin\Debug\QLXEMAY.pdb
+E:\Code\Visual Studio\Winforms\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.csproj.AssemblyReference.cache
+E:\Code\Visual Studio\Winforms\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.csproj.ResolveComReference.cache
+E:\Code\Visual Studio\Winforms\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmDanhMucXe.resources
+E:\Code\Visual Studio\Winforms\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmHoaDonBan.resources
+E:\Code\Visual Studio\Winforms\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmHoaDonNhap.resources
+E:\Code\Visual Studio\Winforms\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmKhachHang.resources
+E:\Code\Visual Studio\Winforms\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmLogin.resources
+E:\Code\Visual Studio\Winforms\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmMain.resources
+E:\Code\Visual Studio\Winforms\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmNhaCungCap.resources
+E:\Code\Visual Studio\Winforms\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmNhanVien.resources
+E:\Code\Visual Studio\Winforms\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmQuanLiHDB.resources
+E:\Code\Visual Studio\Winforms\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmQuanLiHDN.resources
+E:\Code\Visual Studio\Winforms\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmThongKe.resources
+E:\Code\Visual Studio\Winforms\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Forms.frmXe.resources
+E:\Code\Visual Studio\Winforms\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.Properties.Resources.resources
+E:\Code\Visual Studio\Winforms\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.csproj.GenerateResource.cache
+E:\Code\Visual Studio\Winforms\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.csproj.CoreCompileInputs.cache
+E:\Code\Visual Studio\Winforms\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.exe
+E:\Code\Visual Studio\Winforms\QLBanXeMay\QLXEMAY\QLXEMAY\obj\Debug\QLXEMAY.pdb
